@@ -6,10 +6,13 @@ rate in Aystralia during 2012 to 2018.
 
 The adventure team has 5 members:
 Aroosa: 
-Mara Venables:
+Mara Venables:Australian population vs underemployment by major occupation
 Nooshin Kooshyar:
 Adeniyi:
 Tony Zhao: Australian population vs employment analysis over states/territories 
+
+Employment 2012 -2018 vs Underemployment:
+Astralia Bureau of Statistics, 6291019
 
 The original data from The following sources:
 Population 2012 - 2018 vs States:
@@ -18,6 +21,7 @@ Astralia Bureau of Statistics, 310104
 
 Employment 2012 -2018 vs States:
 Astralia Bureau of Statistics, 6202012
+
 
 
 
