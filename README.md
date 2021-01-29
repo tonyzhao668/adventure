@@ -1,6 +1,9 @@
-# adventure
+
+Adventure
 This is a team work started 26/01/21.
-The target of the team work is to present on 06/02/21 the topic of Australian population vs employment/unemployment during 2012 to 2018.
+The target of the team work is to present on 06/02/21 the correlation between Population growth and Employment/Unemployment
+rate in Aystralia during 2012 to 2018.
+
 The adventure team has 5 members:
 Aroosa: 
 Mara Venables:
@@ -15,3 +18,7 @@ Astralia Bureau of Statistics, 310104
 
 Employment 2012 -2018 vs States:
 Astralia Bureau of Statistics, 6202012
+
+
+
+
