@@ -6,7 +6,7 @@ rate in Aystralia during 2012 to 2018.
 
 The adventure team has 5 members:
 Aroosa: 
-Mara Venables:Australian population vs underemployment by major occupation
+Mara Venables:Australian population vs underemployment by some of major occupation/industries
 Nooshin Kooshyar:
 Adeniyi:
 Tony Zhao: Australian population vs employment analysis over states/territories 
