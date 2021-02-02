@@ -2,13 +2,13 @@
 Adventure
 This is a team work started 26/01/21.
 The target of the team work is to present on 06/02/21 the correlation between Population growth and Employment/Unemployment
-rate in Aystralia during 2012 to 2018.
+rate in Australia during 2012 to 2018.
 
 The adventure team has 5 members:
 Aroosa: 
 Mara Venables:Australian population vs underemployment by some of major occupation/industries
 Nooshin Kooshyar:
-Adeniyi:
+Adeniyi:Population vs Average hours worked annuly between, 2012 and 2018, with 2012 as the base year
 Tony Zhao: Australian population vs employment analysis over states/territories 
 
 Employment 2012 -2018 vs Underemployment:
