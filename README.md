@@ -11,16 +11,16 @@ Nooshin Kooshyar:
 Adeniyi:
 Tony Zhao: Australian population vs employment analysis over states/territories 
 
-Employment 2012 -2018 vs Underemployment:
-Astralia Bureau of Statistics, 6291019
 
 The original data from The following sources:
+https://www.abs.gov.au/statistics/people/population
 Population 2012 - 2018 vs States:
 Astralia Bureau of Statistics, 31010do001_202006 National, state and territory population, Jun 2020
 Astralia Bureau of Statistics, 310104
 
-Employment 2012 -2018 vs States:
-Astralia Bureau of Statistics, 6202012
+https://www.abs.gov.au/statistics/labour/employment-and-unemployment
+Employment/unemployment 2012 -2018 vs States:
+Astralia Bureau of Statistics, 6202012, 6291019
 
 
 
